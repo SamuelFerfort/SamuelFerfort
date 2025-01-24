@@ -1,3 +1,5 @@
-Full-stack Developer | Ex-Pro Player  
-🌐 [Portfolio](https://samux.dev)  
+Full-stack Developer | Ex-Pro Player
+
+🌐 Portfolio
+
 🔧 Currently building with React, TypeScript & Node.js
