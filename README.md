@@ -1,3 +1,2 @@
-Full-stack Developer | Ex-Pro Player
+Full Stack Developer | Former Pro Player
 
-[🌐 Portfolio](https://samux.dev)
