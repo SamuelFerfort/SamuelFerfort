@@ -1,2 +1,2 @@
-Full Stack Developer | Former Pro Player
+Full Stack Developer
 
